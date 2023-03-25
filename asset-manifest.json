@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-twit-card/static/css/main.b4f5e6b6.css",
+    "main.js": "/react-twit-card/static/js/main.423e8730.js",
+    "static/media/picture2 1.png": "/react-twit-card/static/media/picture2 1.86562350dcaa714a1442.png",
+    "static/media/boy.png": "/react-twit-card/static/media/boy.e70bc2802efa1b14eda5.png",
+    "index.html": "/react-twit-card/index.html",
+    "main.b4f5e6b6.css.map": "/react-twit-card/static/css/main.b4f5e6b6.css.map",
+    "main.423e8730.js.map": "/react-twit-card/static/js/main.423e8730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f5e6b6.css",
+    "static/js/main.423e8730.js"
+  ]
+}
